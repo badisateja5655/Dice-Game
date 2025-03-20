@@ -1,0 +1,41 @@
+.container{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+
+}
+.klu{
+    display: inline-block;
+    text-align: center;
+    font-family: 'Indie Flower';
+    font-size: 2rem;
+    
+}
+footer{
+    margin-top: 2%;
+    text-align: center;
+    color: #EEEEEE;
+    
+}
+body {
+    background-color: #393E46;
+  }
+  p {
+    font-size: 2rem;
+    color: #4ECCA3;
+    font-family: 'Indie Flower';
+  }
+img{
+    width: 50%;
+}
+h1{
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    font-family: 'Lobster';
+    margin: 5%;
+   margin-top: 20px;
+   color: #4ECCA3;
+   
+
+}
+
